@@ -19,6 +19,7 @@ body,
   grid-template-columns: 1fr;
   height: 100%;
 }
+
 a {
   text-decoration: none;
 }
@@ -34,10 +35,12 @@ header {
   align-items: center;
   padding: 0.5rem;
 }
+
 header a {
   color: #ffffff;
   text-decoration: none;
 }
+
 main {
   grid-area: main;
 }
@@ -100,7 +103,7 @@ footer {
 .product-price div,
 .product-price button {
   text-align: center;
-  flex: 1;
+  flex: auto;
 }
 
 .product-price div {
