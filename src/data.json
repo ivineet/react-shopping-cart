@@ -1,0 +1,40 @@
+{
+    "products":[
+       {"_id":"1",
+        "title":"Badminton",
+        "image":"/images/Badminton.png",
+        "description":"badminton",
+        "price":600,
+        "availableSizes":["S","M","L"]
+       },
+       {"_id":"2",
+        "title":"Badminton",
+        "image":"/images/Badminton.png",
+        "description":"badminton",
+        "price":600,
+        "availableSizes":["S","M","L"]
+       },
+       {"_id":"3",
+        "title":"Badminton",
+        "image":"/images/Badminton.png",
+        "description":"badminton",
+        "price":600,
+        "availableSizes":["S","M","L"]
+       },
+       {"_id":"4",
+        "title":"Badminton",
+        "image":"/images/Badminton.png",
+        "description":"badminton",
+        "price":600,
+        "availableSizes":["S","M","L"]
+       },
+       {"_id":"5",
+        "title":"Badminton",
+        "image":"/images/Badminton.png",
+        "description":"badminton",
+        "price":600,
+        "availableSizes":["S","M","L"]
+       }
+
+    ]
+}
