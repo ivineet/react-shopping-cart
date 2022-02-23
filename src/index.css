@@ -124,3 +124,10 @@ footer {
 .button.primary {
   background-color: #ff8000;
 }
+
+.filter {
+  display: flex;
+  padding: 2rem;
+  margin: 1rem;
+  border-bottom: 0.2rem #c0c0c0 solid;
+}
