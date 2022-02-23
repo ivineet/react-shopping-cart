@@ -4,35 +4,35 @@
         "title":"Badminton",
         "image":"/images/Badminton.png",
         "description":"badminton",
-        "price":600,
-        "availableSizes":["S","M","L"]
+        "price":100,
+        "availableSizes":["S"]
        },
        {"_id":"2",
         "title":"Camel Clay",
         "image":"/images/camel_clay.jpeg",
         "description":"camel clay",
-        "price":600,
-        "availableSizes":["S","M","L"]
+        "price":300,
+        "availableSizes":["M"]
        },
        {"_id":"3",
         "title":"Diaries",
         "image":"/images/diaries1.jpeg",
         "description":"badminton",
         "price":600,
-        "availableSizes":["S","M","L"]
+        "availableSizes":["M","L"]
        },
        {"_id":"4",
         "title":"Badminton",
         "image":"/images/Badminton.png",
         "description":"badminton",
-        "price":600,
-        "availableSizes":["S","M","L"]
+        "price":50,
+        "availableSizes":["L"]
        },
        {"_id":"5",
         "title":"Badminton",
         "image":"/images/Badminton.png",
         "description":"badminton",
-        "price":600,
+        "price":400,
         "availableSizes":["S","M","L"]
        }
 
